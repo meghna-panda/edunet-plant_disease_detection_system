@@ -13,7 +13,7 @@ To develop an AI-powered image classification system that can:
 
 ## Dataset
 The dataset used for this project is the PlantVillage Dataset, one of the most comprehensive publicly available collections of plant disease images. It contains over 54,000 high-quality, labeled images of healthy and diseased plant leaves, categorized into 38 distinct classes across multiple plant species.
-# Dataset Highlights
+Dataset Highlights
 - Total Classes: 38 (Diseased and healthy classes across crops like Apple, Corn, Grape, Tomato, etc.)
 - Image Format: JPG/PNG
 - Labeled: Yes (Supervised classification)
